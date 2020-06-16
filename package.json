@@ -1,0 +1,15 @@
+{
+  "name": "ev3link",
+  "version": "1.0.0",
+  "description": "Tool to send ev3 home files over socket to an ev3 simulator",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jacob Bashista",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.4.0",
+    "electron": "^9.0.4"
+  }
+}
